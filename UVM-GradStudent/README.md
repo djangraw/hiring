@@ -10,7 +10,7 @@ By understanding the brain as it operates in real life, we can pave the way for 
 ## What you will do:
 
 As a graduate research assistant in the lab, you will work with Dr. Jangraw to find projects that merge the lab's mission and your own interests. Example projects include:
-1. *Mindless Reading**: we can decode brain & eye signals observed while someone is reading to predict how well they'll do on a later comprehension quiz. Can we do it in real-time and intervene to help?
+1. *Mindless Reading*: we can decode brain & eye signals observed while someone is reading to predict how well they'll do on a later comprehension quiz. Can we do it in real-time and intervene to help?
 2. *The Aha Moment*: The attentional orienting response brain signal occurs when something captures your attention. Detecting it in real-life scenarios may shed light on ADHD & addiction.
 3. *Automated Therapy Labeling*: Cognitive Behavioral Therapy is the standard for treating anxious kids. To find out which elements help, we're training a deep learning system to detect therapist techniques.
 

@@ -2,7 +2,7 @@
 
 ## Who we are:
 
-Dr. [David Jangraw](https://uvm.edu/~djangraw) is seeking PhD students for his new research group, the Glass Brain Lab.
+Dr. David Jangraw is seeking PhD students for his new research group, the [Glass Brain Lab](https://www.uvm.edu/~brainlab/).
 Dr. Jangraw is a new faculty member in UVM's Electrical and Biomedical Engineering Department with experience in signal processing and machine learning.
 The lab's focus is "naturalistic neuroengineering": the use of new technology to study the human brain in realistic situations.
 By understanding the brain as it operates in real life, we can pave the way for devices that detect problematic brain states in real-time and provide help or support, a sort of pacemaker for the brain.
@@ -29,7 +29,7 @@ You must have:
 Ideally, you would also have:
 - Experience collecting and analyzing human neuroimaging data (especially EEG or fMRI)
 - Experience in machine learning, especially using open source machine learning platforms such as [scikit-learn](https://scikit-learn.org/).
-- Coursework listed on UVM's [Bioengineering PhD website](https://www.uvm.edu/cems/ebe/graduate_admission_requirements)
+- Coursework listed on UVM's [Bioengineering PhD website](https://www.uvm.edu/cems/ebe/graduate_admission_requirements) or [EE PhD website](https://www.uvm.edu/cems/ebe/electrical_engineering_ms_phd)
 
 ## How to apply:
 

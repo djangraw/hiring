@@ -34,4 +34,4 @@ Ideally, you would also have:
 ## How to apply:
 
 Please write to Dr. Jangraw at david.jangraw@uvm.edu to explain why you would be a good fit for the position, attaching your CV.
-Applicants will also be required to complete an application to UVM's Bioengineering or Electrical Engineering PhD programs [here](https://www.uvm.edu/graduate/application_instructions) by October 1, 2020 (to start in Spring 2021) or January 15 (to start in Fall 2021).
+Applicants will also be required to complete an application to UVM's Bioengineering or Electrical Engineering PhD programs [here](https://www.uvm.edu/graduate/application_instructions) by January 15.

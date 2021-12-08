@@ -14,7 +14,7 @@ As a graduate research assistant in the lab, you will work with Dr. Jangraw to f
 2. *The Aha Moment*: The attentional orienting response brain signal occurs when something captures your attention. Detecting it in real-life scenarios may shed light on ADHD & addiction.
 3. *Automated Therapy Labeling*: Cognitive Behavioral Therapy is the standard for treating anxious kids. To find out which elements help, we're training a deep learning system to detect therapist techniques.
 
-You will use cutting-edge tools like EEG, machine learning, virtual reality, gaze tracking, fMRI, speech transcription, and mobile monitoring. You will collect data using these tools, write code to de-noise the signals, and use machine learning to decode brain states or predict mental health outcomes.
+You will use cutting-edge tools like EEG, machine learning, virtual reality, gaze tracking, fMRI, natural language processing, and mobile monitoring. You will collect data using these tools, write code to de-noise the signals, and use machine learning to decode brain states or predict mental health outcomes.
 You will publish papers and attend conferences to share your findings with the world.
 
 ## Who you are:
@@ -28,8 +28,9 @@ You must have:
 
 Ideally, you would also have:
 - Experience collecting and analyzing human neuroimaging data (especially EEG or fMRI)
+- Experience in natural language processing (NLP) or virtual reality (VR)
 - Experience in machine learning, especially using open source machine learning platforms such as [scikit-learn](https://scikit-learn.org/).
-- Coursework listed on UVM's [Bioengineering PhD website](https://www.uvm.edu/cems/ebe/graduate_admission_requirements) or [EE PhD website](https://www.uvm.edu/cems/ebe/electrical_engineering_ms_phd)
+- Coursework listed on UVM's [Bioengineering PhD website](https://www.uvm.edu/cems/bme-phd) or [EE PhD website](https://www.uvm.edu/cems/ebe/electrical_engineering_ms_phd)
 
 ## How to apply:
 

@@ -4,6 +4,3 @@ The Glass Brain Lab at the University of Vermont is hiring! For more information
 
 ## [Undergraduate or Master's Research Assistant](UVM-Undergrad)
 We are seeking undergrads and Master's students to keep the lab running. Applicants will be considered on a rolling basis. [>>READ MORE>>](UVM-Undergrad)
-
-## [Research Coordinator](UVM-Coordinator)
-We are seeking a research coordinator to manage human subjects experiments. Applicants will be considered on a rolling basis until the position is filled. [>>READ MORE>>](UVM-Coordinator)

@@ -13,7 +13,7 @@ By understanding the brain as it operates in real life, we can pave the way for 
 ### Big Picture
 As a research assistant in the lab, you will assist Dr. Jangraw and senior lab members on projects that merge the lab's mission and your own interests. Example projects include:
 1. *Mindless Reading*: we can decode brain & eye signals observed while someone is reading to predict how well they'll do on a later comprehension quiz. Can we do it in real-time and intervene to help?
-2. *The Aha Moment*: The attentional orienting response brain signal occurs when something captures your attention. Detecting it in real-life scenarios may shed light on ADHD & addiction.
+2. *Language Changes*: we will use natural language processing to better understand how people speak as they age and develop memory loss disorders, with an eye towards using speech to detect these issues automatically. 
 3. *Automated Therapy Labeling*: Cognitive Behavioral Therapy is the standard for treating anxious kids. To find out which elements help, we're training a deep learning system to detect therapist techniques.
 
 You will use cutting-edge tools like fMRI, EEG, machine learning, virtual reality, gaze tracking, natural language processing, and mobile monitoring.
@@ -44,5 +44,4 @@ Ideally, you would also have:
 
 ## How to apply:
 
-Please write to Dr. Jangraw at david.jangraw@uvm.edu to explain why you would be a good fit for the position, attaching your CV.
-Applicants will be considered on a rolling basis.
+We typically accept incoming students once per semester. Please refer to the BME program's document on [How to do BME Research](https://uvmoffice.sharepoint.com/:w:/s/EBE/EYRr3CaU1NJCtIS4dKvusRgBRgT5VC98KgnJ6Cn7mbeTOQ?e=LG2ZNk) for application links, instructions, and deadlines.
